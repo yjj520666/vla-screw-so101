@@ -1,0 +1,11 @@
+.venv/
+.venv-*/
+__pycache__/
+*.pyc
+configs/*.json
+outputs/
+*.log
+.env
+
+mujoco/xlerobot/assets/
+mujoco/workbench_xlerobot_arm.xml
